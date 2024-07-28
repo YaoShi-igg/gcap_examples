@@ -1,0 +1,4 @@
+Event ./seismograms/EQ1 Model sd_16 FM 125 68 -17 Mw 5.47 E 8.696e-02   375 ERR   0   0   0 ISO 0.00 0.00 CLVD 0.00 0.00
+Event ./seismograms/EQ1 Model sd_17 FM 125 69 -17 Mw 5.49 E 2.380e-02   375 ERR   0   0   0 ISO 0.00 0.00 CLVD 0.00 0.00
+Event ./seismograms/EQ1 Model sd_18 FM 125 69 -17 Mw 5.51 E 8.041e-03   375 ERR   0   0   0 ISO 0.00 0.00 CLVD 0.00 0.00
+Event ./seismograms/EQ1 Model sd_19 FM 125 70 -17 Mw 5.53 E 3.249e-02   375 ERR   0   0   0 ISO 0.00 0.00 CLVD 0.00 0.00

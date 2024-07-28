@@ -1,0 +1,14 @@
+
+01_eq_sta_geo.sh: Plot distribution of sources and stations using gmt in grographic coordinate.
+
+02_gen_fk_input.py: Generate input for fk.
+
+03_run_fk.sh: Run fk to generate green functions.
+
+04-1_run_syn.py: Synthesize theoritical seismograms, and using 04_2_plot_seismograms for showing.
+
+05_gen_weight.py: Generate weight file for gcap.
+
+06_run_gcap3D.py: Run gcap3D for inversion.
+
+depth.pl: For plot depth fitting curve.
